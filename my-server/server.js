@@ -5,7 +5,7 @@ const mongoose = require("mongoose");
 const cors = require("cors");
 
 // Connect to MongoDB all of my schema is connected to here
-mongoose.connect("mongodb://localhost/leaderboard", {
+mongoose.connect("mongodb://127.0.0.1:27017/leaderboard", {
   useNewUrlParser: true,
   useUnifiedTopology: true,
 });
