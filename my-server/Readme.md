@@ -1,0 +1,4 @@
+-clone repo
+-get mongodb on your computer
+-npm install
+-npm start 
