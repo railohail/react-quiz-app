@@ -20,7 +20,7 @@ export default function EmitQuestionForm({
         backgroundColor: "#1D1E2C",
         color: "#1D1E2C",
         height: "100vh",
-        width: "30vh",
+        width: "40vh",
       }}
       role="presentation"
     >
